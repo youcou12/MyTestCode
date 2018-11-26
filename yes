@@ -1,0 +1,30 @@
+[33mcommit c5dc02bf7dcae3410ad00aaf5c796cf116936806[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c312f67 42a8a17
+Author: youcou12 <youcou12@126.com>
+Date:   Wed Nov 21 08:56:45 2018 +0800
+
+    Merge branch 'master' of github.com:youcou12/test20181121
+
+[33mcommit c312f6718af20909f46f660eee2f9bedc58c3ae2[m
+Author: youcou12 <youcou12@126.com>
+Date:   Wed Nov 21 08:56:06 2018 +0800
+
+    Add hello world script by python
+
+[33mcommit 42a8a17003ffb64fcdac97d1ecc1541a0cd392ad[m
+Author: youcou12 <youcou12@126.com>
+Date:   Wed Nov 21 08:55:19 2018 +0800
+
+    Delete hell_world.py
+
+[33mcommit 3a26bf88cc93617fb07c47953cb0b6994e4723e6[m
+Author: youcou12 <youcou12@126.com>
+Date:   Wed Nov 21 08:51:06 2018 +0800
+
+    Add hello world script by python
+
+[33mcommit b8c771032764d5286e1f083a8d20beef5a69789a[m
+Author: youcou12 <youcou12@126.com>
+Date:   Wed Nov 21 08:40:07 2018 +0800
+
+    Initial commit
